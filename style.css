@@ -1,0 +1,13 @@
+#huge-font {
+  font-size: 100px;
+}
+
+.color-font { 
+  color: red;
+  font-weight: bold;
+}
+
+.family {
+  border: 5px solid yellow;
+  display: block;
+}
